@@ -34,8 +34,6 @@
 
 <hr>
 
-<h2>🛠️ İletişim ve Katkı</h2>
-<p>Proje ile ilgili soru ve katkılar için lütfen iletişime geçiniz.</p>
 
 
 
